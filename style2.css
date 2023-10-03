@@ -1,0 +1,39 @@
+html {
+    height: 100%;
+}
+
+body {
+    /* font-family: 'Kanit',sans-serif; */
+    /* height: 100%; */
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background: black;
+    background: -moz-linear-gradient(top, #000000 0%, #0b2d39 99%);
+    background: -webkit-linear-gradient(top, #000000 0%, #0b2d39 99%);
+    background: linear-gradient(to bottom, #000000 0%, #0b2d39 99%);
+    /* filter: progid:DXImageTransform.Microsoft.gradient(
+        startColorstr="#91c1d1",
+        endColorstr="#91d1c1",
+        GradientType=0
+        ); */
+    text-align: center;
+    color: #fff;
+}
+
+h2 {
+    font-family: 'Kanit',sans-serif;
+    font-weight: 800;
+    color: #fff;
+}
+
+.question{
+    margin: 25px 0 0 0;
+}
+
+#quiz{
+    margin: 0 25px 25px 100px;
+}
+/* #exit{
+    margin: 25px 0 0 0;
+} */
